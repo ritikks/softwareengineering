@@ -1,0 +1,59 @@
+body {
+	background: url("http://www.wallpaperup.com/uploads/wallpapers/2012/10/21/20181/cad2441dd3252cf53f12154412286ba0.jpg");
+	padding: 50px;
+}
+
+.ip {
+	width: 20rem;
+	border: 4px double lightblue;
+}
+
+/* .card-img-top {
+	width: 70%;
+	height: 70%;
+	margin: auto;
+	object-fit: cover;
+} */
+
+.product-img {
+	max-height: 200px;
+	object-fit: scale-down;
+}
+
+h1 {
+	color: yellow;
+	/* background-color: rgb(28, 104, 219, 0.3);
+	border: 1px solid white; */
+	width: 70%;
+}
+
+#num-products {
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+}
+
+label {
+	font-weight: bold;
+}
+
+.email-notification {
+	color: rgb(0, 0, 0);
+}
+
+.header-info {
+	/* border: 3px solid red; */
+	background-color: rgb(255, 255, 255, 0.4);
+	margin-bottom: 5px;
+	padding-bottom: 1px;
+	/* width: 75%; */
+}
+.footer {
+	/* position: fixed; */
+	left: 0;
+	bottom: 0;
+	color: white;
+	text-align: center;
+	width: 100%;
+	font-weight: 400;
+	font-size: larger;
+}
